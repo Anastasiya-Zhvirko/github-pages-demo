@@ -1,0 +1,51 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    background-color: lightskyblue;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.avatar {
+    margin: 30px auto;
+    
+}
+
+img {
+    max-width: 300px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: teal;
+}
+
+li {
+    text-align: left;
+    font-size: 1.3rem;
+}
+
+p {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
